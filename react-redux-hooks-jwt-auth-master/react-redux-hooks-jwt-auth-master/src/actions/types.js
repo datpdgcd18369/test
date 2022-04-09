@@ -1,0 +1,13 @@
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+
+export const SET_MESSAGE = "SET_MESSAGE";
+export const CLEAR_MESSAGE = "CLEAR_MESSAGE";
+
+export const CREATE_COURSE = "CREATE_COURSE";
+export const RETRIEVE_COURSES = "RETRIEVE_COURSES";
+export const UPDATE_COURSE = "UPDATE_COURSE";
+export const DELETE_COURSE = "DELETE_COURSE";
